@@ -1,0 +1,13 @@
+ A problem is something that has to be solved
+
+A problem solving is a function or a mapping of inputs to outputs. 
+
+Problem solving is a process of transforming the description of a problem into thesolution of that problem by  using our knowledge of the problem domain and byrelying   on   our   ability   to   select   and   use   appropriate   problem-solving   Strategies,Techniques and Tools.- Problem solving (with in the context of developing programs) refers to analyzing aproblem with the intention of deriving a solution for the problem  
+
+Understand the problem
+
+Design a solution to the problem
+
+Implement the solution
+
+Check  the solution

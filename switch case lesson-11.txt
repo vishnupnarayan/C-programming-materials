@@ -1,0 +1,23 @@
+Video -11
+
+Switch case
+
+
+switch(variable/expression)
+{
+	case value-1:
+		true statements-1;
+		break;
+	case value-2:
+		true statements-2;
+		break;
+	:
+	:
+	:
+	case value-n:
+		true statements-3;
+		break;
+	default:
+		false statement;
+}
+

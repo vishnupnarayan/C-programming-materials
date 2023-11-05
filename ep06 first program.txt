@@ -1,0 +1,12 @@
+edit ep06- first program 6.04 to 6.19, 9.54 to 11.02(speed up)
+
+Task1:
+
+	Write a C program to find the area and circumference of a circle
+
+Task2:
+
+	Write a C program to calculate simple interest 
+
+	
+

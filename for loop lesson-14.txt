@@ -1,0 +1,22 @@
+for loop - lesson-14
+
+syntax:
+
+for(initialisation;condition;alteration)
+{
+	loop statement-1;
+	loop statement-2;
+	:
+	:
+	loop statement-n;
+}
+next statement;
+
+
+eg:
+
+for(i=1;i<=10;i++)
+{
+	printf("Hello");
+}
+

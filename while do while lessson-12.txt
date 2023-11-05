@@ -1,0 +1,31 @@
+Video -12
+
+while	- entry controlled loop
+
+
+syntax:
+	
+while(condition)
+{
+	loop statement-1;
+	loop statement-2;
+	:
+	loop statement-n;
+}
+next statement;
+
+
+
+do-while	-exit controlled loop
+
+syntax:
+
+	
+do
+{
+	loop statement-1;
+	loop statement-2;
+	:
+	loop statement-n;
+}
+while(condition);
